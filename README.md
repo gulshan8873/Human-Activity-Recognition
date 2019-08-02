@@ -26,4 +26,4 @@ The magnitude of these 3-dimensional signals were calculated using the Euclidian
 Finally, We've got frequency domain signals from some of the available signals by applying a FFT (Fast Fourier Transform). These signals obtained were labeled with prefix 'f' just like original signals with ___prefix 't'___. These signals are labeled as fBodyAcc-XYZ, fBodyGyroMag etc.,.
 
 
-Pushpendra Singh Chauhan
+Gulshan Kumar
